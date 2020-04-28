@@ -1,0 +1,3 @@
+						Trabajo Practico N°1
+
+b)Es conveniente incluir el archivo gitignore para decirle a Git qué archivos o directorios completos debe ignorar y no subir al repositorio de código. Se debe usar el gitignore cuando queremos que Git excluya el control de algun archivo, éste archivo debe estar a la altuna del archivo .git. Si queremos que Git no lleve el control de ciertos archivos, simplente debemos poner el nombre del archivo que queremos ignorar seguido de un .gitignore
